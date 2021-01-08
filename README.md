@@ -44,7 +44,7 @@ Programação
 *	SQL Postgre
 
 Infraestrutura de TI e Telecom: 
-* Cabeamento Estruturado, Redes Opticas, Serviços de Data Center, Segurança de Redes, Links Dedicados, VPN e MPLS, PABX Virtual e VOIP Asterisk, URA. 
+* Cabeamento Estruturado, Redes Ópticas, Serviços de Data Center, Segurança de Redes, Links Dedicados, VPN e MPLS, PABX Virtual e VOIP Asterisk, URA. 
 
 # Projetos
 
